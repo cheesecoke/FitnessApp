@@ -1,0 +1,3 @@
+[submodule "wildland-presentation"]
+	path = wildland-presentation
+	url = git@github.com:cheesecoke/wildland-presentation.git
